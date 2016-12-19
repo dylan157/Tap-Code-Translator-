@@ -1,3 +1,4 @@
+#!/usr/bin/env python 
 import re
 print "CodeToWord 2.0"
 print ""
